@@ -1,0 +1,10 @@
+.search {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+  margin: 10px 0px;
+}
+.search-btn {
+  padding: 0px 10px;
+}

@@ -1,0 +1,10 @@
+nav {
+  background-color: aqua;
+  color: white;
+  font-size: 28px;
+  font-weight: bold;
+}
+a {
+  text-decoration: none;
+  color: white;
+}
